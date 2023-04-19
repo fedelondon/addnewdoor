@@ -5,7 +5,6 @@ public class Main {
     }
 
     public static int sumpuertas(int puertas){
-        int total = puertas + 1;
-        return total;
+        return puertas + 1;
     }
 }
